@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-<html>    
+<meta charset="utf-8"/>
+<html>
     <head>
-        <meta charset="utf-8"/>
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet"/>
         <link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
@@ -20,7 +20,6 @@
             </div>
         </div>
         <div>
-            <!-- DIV CORPO FUNDO PRETO-->
             <div id="CORPO">
                 <div align="center">
                     <h1 id="títulos">
@@ -38,7 +37,6 @@
                     <h1 id="títulos">
                         Conhecimentos
                     </h1>
-                    <!--ME EXPLICA, PORQUE "TR" E "TD" TEM QUE ESTAR DENTRO DE TABLE???????????? COMPLICADO....-->
                     <table>
                         <tr align="center">
                             <td width="325" height="180" bgcolor="white" align="center"><img src="habilidades11.png" width="300"></td>
