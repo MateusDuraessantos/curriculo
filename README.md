@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8"/>
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet"/>
-        <link rel="stylesheet" type="text/css" href="estilo.css"
+        <link rel="stylesheet" type="text/css" href="index.css"
 </head>
     <body>
         <div> 
