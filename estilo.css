@@ -4,7 +4,7 @@ body{
     background-position-y: 135px;
     background-size: 100%;
 }
-#BARRACAB{
+.BARRACAB{
     position: fixed;
     top: 0px;
     left:0px;
@@ -15,13 +15,13 @@ body{
     border-style:solid;
     border-color: rgba(36, 21, 11, 0.384);
    }
-#s2{
+.s2{
     display: inline-block;
     height:60px;
     width: 400px;
     margin-top: 10px;
 }
-#s3{
+.s3{
     
     display: inline-block;
     height:100px;
@@ -32,7 +32,7 @@ div{
     margin-left: auto;
     margin-right: auto;
 }
-#CORPO{
+.CORPO{
     background-color:rgba(0, 0, 0, 0.747);
     margin-top: 135px;
     height:2425px;
@@ -41,7 +41,7 @@ div{
     border-style:solid;
     border-color: rgba(36, 21, 11, 0.384);
 }
-#títulos{
+.títulos{
     color:white;
     font-family: 'Roboto', sans-serif;
     text-shadow: 1px 1px 0px black; 
@@ -50,32 +50,32 @@ li{
     font-family: Arial, Helvetica, sans-serif;
     color:white;
 }
-#strong{
+.strong{
     color:rgb(255, 145, 0);
 }
-#ad{
+.ad{
     color: rgb(0, 255, 0);
 }
-#links{
+.links{
     height: 50px;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
 }
-#link{
+.link{
     height: 50px;
     width: 250px;
     margin-left: auto;
     margin-right: auto;
 }
-#imagens{
+.imagens{
     height: 1180px; 
     width: 650px;
 }
-#fonte2{
+.fonte2{
     color:rgb(222, 184, 135);
 }
-#faixafinal{
+.faixafinal{
     position: relative;
     background-color:rgb(70, 43, 25);
     margin-left: 0px;
@@ -83,12 +83,12 @@ li{
     display:block;
     height: 100px;
 }
-#faixadentro{
+.faixadentro{
     position: relative;
     top: 20px;
     width: 400px;
     height: 60px;
 }
-#seila{
+.seila{
     font-family: 'Roboto', sans-serif;
 }
