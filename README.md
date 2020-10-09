@@ -2,8 +2,9 @@
 <html>    
     <head>
         <meta charset="utf-8"/>
+        <title>Currículo</title>
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet"/>
-        <link rel="stylesheet" href="index.css" type="text" />
+        <link rel="stylesheet" type="text/css" href="estilo.css">
 </head>
     <body>
         <div> 
