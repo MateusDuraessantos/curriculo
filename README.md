@@ -11,7 +11,7 @@
             background-position-y: 135px;
             background-size: 100%;
         }
-        #BARRACABEÇALHO{
+        #BARRACAB{
             position: fixed;
             top: 0px;
             left:0px;
@@ -48,9 +48,6 @@
             border-style:solid;
             border-color: rgba(36, 21, 11, 0.384);
         }
-        #nome{
-            font-family: 'Roboto', sans-serif;
-        }
         #títulos{
             color:white;
             font-family: 'Roboto', sans-serif;
@@ -72,16 +69,18 @@
             margin-left: auto;
             margin-right: auto;
         }
+        #link{
+            height: 50px;
+            width: 250px;
+            margin-left: auto;
+            margin-right: auto;
+        }
         #imagens{
             height: 1180px; 
             width: 650px;
         }
         #fonte2{
             color:rgb(222, 184, 135);
-        }
-        #textcolor{
-            color:white;
-            text-transform: 1000px;
         }
         #faixafinal{
             position: relative;
@@ -104,7 +103,7 @@
 </head>
     <body>
         <div> 
-            <div align="center" id="BARRACABEÇALHO">
+            <div align="center" id="BARRACAB">
                 <td>
                     <div id="s2" align="right"><font size="6" color="white"><strong>Mateus Durães dos Santos</font><br><font size="5" id="seila" color="lightgrey">Design</font></strong>
                     </div>
@@ -146,10 +145,10 @@
                     </h1>
                     <p>
                         <div align="center">
-                            <h1 id="links">
+                            <h1 id="link">
                                 <div class="opt" onCLick="window.open('https://www.behance.net/mateusduraes','_blank');"><font id="fonte2"><p style="text-decoration: underline;">BEHANCE</font></div>
                             </h1>
-                            <h1 id="links">
+                            <h1 id="link">
                                 <div class="opt" onCLick="window.open('https://www.instagram.com/mateusduraesdesigner/','_blank');"><font id="fonte2"><p style="text-decoration: underline;">INSTAGRAM</font></div>
                             </h1>
                         </div>
